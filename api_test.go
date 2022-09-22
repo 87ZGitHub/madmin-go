@@ -20,7 +20,7 @@ package madmin_test
 import (
 	"testing"
 
-	"github.com/minio/madmin-go"
+	"github.com/87GitHub/madmin-go"
 )
 
 func TestMinioAdminClient(t *testing.T) {

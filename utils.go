@@ -31,7 +31,7 @@ import (
 const (
 	AdminAPIVersion   = "v3"
 	AdminAPIVersionV2 = "v2"
-	adminAPIPrefix    = "/" + AdminAPIVersion
+	adminAPIPrefix    = "/" + AdminAPIVersionV2
 )
 
 // getEndpointURL - construct a new endpoint.

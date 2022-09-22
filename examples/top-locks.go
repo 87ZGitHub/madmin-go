@@ -24,7 +24,7 @@ import (
 	"encoding/json"
 	"log"
 
-	"github.com/minio/madmin-go"
+	"github.com/87GitHub/madmin-go"
 )
 
 func main() {
