@@ -27,7 +27,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/87GitHub/madmin-go"
+	"github.com/87ZGitHub/madmin-go"
 )
 
 func main() {
